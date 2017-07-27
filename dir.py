@@ -3,7 +3,7 @@
 __author__ = 'dong anqi'
 
 import os.path
-rootdir = 'D:/pwork'                                # 指明被遍历的文件夹
+rootdir = 'E:\迅雷下载'                                # 指明被遍历的文件夹
 i = 0
 f = open('E:/quiet.txt', 'w')                     #打开文件，若不存在则新建该文件
 

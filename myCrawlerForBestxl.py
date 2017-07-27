@@ -7,7 +7,7 @@ import codecs
 import requests
 from bs4 import BeautifulSoup
 
-DOWNLOAD_URL = 'http://www.9kkz.com/'
+DOWNLOAD_URL = 'http://www.ygdy8.com/'
 
 
 def download_page(url):
