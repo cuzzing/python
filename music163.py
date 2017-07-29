@@ -34,7 +34,7 @@ id = ['122804072', '249973578', '46366826', '386283936', '44768275',
 # recordAmount('122804072')
 
 for index in range(len(id)):
-    print(name[index], end=' ')
+    # print(name[index], end=' ')
     recordAmount(id[index])
 
 print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
