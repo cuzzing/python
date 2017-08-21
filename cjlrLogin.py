@@ -12,7 +12,7 @@ def md5(str):
 
 IDToken1 = '1430705000'         #学号
 # IDToken9 = 'xxxxxx'                   #密码
-IDToken9 = 'xh5077'
+IDToken9 = 'xxxxxx'
 IDToken2 = md5(str(IDToken9))         #密码的md5值
 
 payload = {'IDButton': 'Submit',
