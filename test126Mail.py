@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 mailto_list = ['715278509@qq.com']           #收件人(列表)
 mail_host = "smtp.126.com"            #使用的邮箱的smtp服务器地址
 mail_user = "zingly"                           #用户名
-mail_pass = "7#entrancE"                             #密码
+mail_pass = "##########"                             #密码
 mail_postfix = "126.com"                     #邮箱的后缀
 
 # mailto_list = ['zingly@126.com']
