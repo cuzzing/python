@@ -13,7 +13,6 @@ mail_postfix = "126.com"                     #邮箱的后缀
 # mailto_list = ['zingly@126.com']
 # mail_host = 'smtp.qq.com'
 # mail_user = '715278509'
-# mail_pass = 'mINDoro4_8'
 # mail_postfix = 'qq.com'
 
 def send_mail(to_list, sub, content):
